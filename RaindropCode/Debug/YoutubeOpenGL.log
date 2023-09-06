@@ -1,0 +1,14 @@
+﻿Camera.obj : error LNK2019: unresolved external symbol _glfwGetKey referenced in function "public: void __thiscall Camera::Inputs(struct GLFWwindow *)" (?Inputs@Camera@@QAEXPAUGLFWwindow@@@Z)
+Main.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwTerminate referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwWindowHint referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwCreateWindow referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwDestroyWindow referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwWindowShouldClose referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwSetWindowTitle referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwPollEvents referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwGetTime referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwMakeContextCurrent referenced in function _main
+Main.obj : error LNK2019: unresolved external symbol _glfwSwapBuffers referenced in function _main
+Libraries\lib\glfw3.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+E:\opengl-tutorials-main\YoutubeOpenGL 19 - Cubemaps & Skyboxes\Debug\Raindrops.exe : fatal error LNK1120: 12 unresolved externals

@@ -1,0 +1,80 @@
+﻿D:\Microsoft Visual Studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (YoutubeOpenGL.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Camera.cpp
+  EBO.cpp
+  Main.cpp
+E:\Raindrops\RaindropCode\Main.cpp(165,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Raindrops\RaindropCode\Main.cpp(452,28): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Raindrops\RaindropCode\Main.cpp(492,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Raindrops\RaindropCode\Main.cpp(494,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Raindrops\RaindropCode\Main.cpp(496,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Raindrops\RaindropCode\Main.cpp(497,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Raindrops\RaindropCode\Main.cpp(498,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Raindrops\RaindropCode\Main.cpp(499,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Raindrops\RaindropCode\Main.cpp(500,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Raindrops\RaindropCode\Main.cpp(501,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\Raindrops\RaindropCode\Main.cpp(523,36): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Raindrops\RaindropCode\Main.cpp(525,31): warning C4305: '-=': truncation from 'double' to 'float'
+E:\Raindrops\RaindropCode\Main.cpp(605,74): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Raindrops\RaindropCode\Main.cpp(606,87): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Raindrops\RaindropCode\Main.cpp(609,84): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Raindrops\RaindropCode\Main.cpp(610,91): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Raindrops\RaindropCode\Main.cpp(613,84): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Raindrops\RaindropCode\Main.cpp(614,91): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Raindrops\RaindropCode\Main.cpp(617,84): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Raindrops\RaindropCode\Main.cpp(618,91): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Raindrops\RaindropCode\Main.cpp(627,85): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Raindrops\RaindropCode\Main.cpp(635,27): warning C4305: '=': truncation from 'double' to 'float'
+E:\Raindrops\RaindropCode\Main.cpp(644,27): warning C4305: '=': truncation from 'double' to 'float'
+E:\Raindrops\RaindropCode\Main.cpp(714,74): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Raindrops\RaindropCode\Main.cpp(730,34): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+E:\Raindrops\RaindropCode\Main.cpp(740,29): warning C4305: '+=': truncation from 'double' to 'float'
+E:\Raindrops\RaindropCode\Main.cpp(747,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Raindrops\RaindropCode\Main.cpp(755,83): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Raindrops\RaindropCode\Main.cpp(762,148): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Raindrops\RaindropCode\Main.cpp(764,98): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Raindrops\RaindropCode\Main.cpp(766,98): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Raindrops\RaindropCode\Main.cpp(768,98): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Raindrops\RaindropCode\Main.cpp(770,98): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Raindrops\RaindropCode\Main.cpp(773,154): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\Raindrops\RaindropCode\Main.cpp(234,12): warning C4101: 'position': unreferenced local variable
+  Mesh.cpp
+E:\Raindrops\RaindropCode\Mesh.cpp(81,65): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Model.cpp
+E:\Raindrops\RaindropCode\Model.cpp(262,94): warning C4267: 'argument': conversion from 'size_t' to 'GLuint', possible loss of data
+E:\Raindrops\RaindropCode\Model.cpp(270,96): warning C4267: 'argument': conversion from 'size_t' to 'GLuint', possible loss of data
+  shaderClass.cpp
+  stb.cpp
+  Texture.cpp
+  VAO.cpp
+E:\Raindrops\RaindropCode\VAO.cpp(13,63): warning C4244: 'argument': conversion from 'GLsizeiptr' to 'GLsizei', possible loss of data
+  VBO.cpp
+  Generating Code...
+  glad.c
+glfw3.lib(context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(context.obj)' or at 'E:\Raindrops\RaindropCode\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(init.obj)' or at 'E:\Raindrops\RaindropCode\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(input.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(input.obj)' or at 'E:\Raindrops\RaindropCode\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(monitor.obj)' or at 'E:\Raindrops\RaindropCode\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(vulkan.obj)' or at 'E:\Raindrops\RaindropCode\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(window.obj)' or at 'E:\Raindrops\RaindropCode\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_init.obj)' or at 'E:\Raindrops\RaindropCode\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_joystick.obj)' or at 'E:\Raindrops\RaindropCode\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_monitor.obj)' or at 'E:\Raindrops\RaindropCode\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_time.obj)' or at 'E:\Raindrops\RaindropCode\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_thread.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_thread.obj)' or at 'E:\Raindrops\RaindropCode\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_window.obj)' or at 'E:\Raindrops\RaindropCode\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(wgl_context.obj)' or at 'E:\Raindrops\RaindropCode\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(egl_context.obj)' or at 'E:\Raindrops\RaindropCode\x64\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(osmesa_context.obj)' or at 'E:\Raindrops\RaindropCode\x64\Debug\glfw.pdb'; linking object as if no debug info
+  YoutubeOpenGL.vcxproj -> E:\Raindrops\RaindropCode\x64\Debug\Raindrops.exe
